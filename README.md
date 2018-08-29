@@ -8,7 +8,7 @@
 ---
 - [x] Project One<br />
 
-![](carrousel_02.gif)<br />
+![](carrousel_02b.gif)<br />
 
 ---
 - [ ] Project Two<br />
