@@ -3,6 +3,7 @@
 ## Using
 `react-slick` <br />
 `@material-ui` <br />
+`react-reveal` <br />
 
 ---
 - [x] Project One<br />

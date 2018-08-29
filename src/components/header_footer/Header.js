@@ -19,8 +19,7 @@ export default class Header extends Component {
       drawerOpen: value
     })
   }
-  componentDidMount(){
-    console.log(window.screenY)
+  componentDidMount(){    
     window.addEventListener('scroll', this.handleScrol)
   }
 
