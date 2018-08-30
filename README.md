@@ -9,6 +9,7 @@
 - [x] Project One<br />
 
 ![](carrousel_02b.gif)<br />
+Site __Demo__ link http://udemy-course-01.surge.sh/ <br />
 
 ---
 - [ ] Project Two<br />
