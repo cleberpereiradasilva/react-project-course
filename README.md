@@ -11,10 +11,23 @@
 ![](carrousel_02b.gif)<br />
 Site __Demo__ link http://udemy-course-01.surge.sh/ <br />
 
----
-- [ ] Project Two<br />
+
+## Clone repository:
 
 ---
-- [ ] Project Three<br />
+
+$ git clone git@github.com:cleberpereiradasilva/course-building-projects.git
+
+---
 
 
+## Start the project
+
+```
+
+$ cd course-building-projects/project-01/
+$ yarn install
+$ yarn start
+
+
+```
